@@ -25,7 +25,7 @@ Software Engineering graduate with **14+ months of professional experience** bui
 
 ## Experience
 
-**Associate Software Engineer** — Panaceata (Pvt) Ltd
+**Associate Software Engineer** - Panaceata (Pvt) Ltd
 > Built a full-scale ERP for a manufacturing client, end to end.
 > `Angular 18` · `NestJS` · `PostgreSQL` · `Azure DevOps`
 
@@ -36,9 +36,9 @@ Currently building AI-driven systems with LSTM-DNN, FastAPI and microservices, p
 ## Research
 
 **Unified AI Framework for Predictive Pediatric Healthcare in Multilingual, Resource-Limited Settings**
-> Published on IEEE Xplore · Presented at I2CACIS 2026 — 11th IEEE International Conference on Automatic Control and Intelligent Systems
+> Published on IEEE Xplore · Presented at I2CACIS 2026 - 11th IEEE International Conference on Automatic Control and Intelligent Systems
 
-A mobile-enabled AI decision support system featuring a hybrid LSTM-DNN predictive model, LLM-based nutrition optimization, and multimodal emergency response — built to serve resource-limited healthcare settings.
+A mobile-enabled AI decision support system featuring a hybrid LSTM-DNN predictive model, LLM-based nutrition optimization, and multimodal emergency response - built to serve resource-limited healthcare settings.
 
 **[Read on IEEE Xplore →](https://ieeexplore.ieee.org/document/11600063)**
 
@@ -68,8 +68,8 @@ A mobile-enabled AI decision support system featuring a hybrid LSTM-DNN predicti
 
 ## Education
 
-**BSc (Hons) Software Engineering** — Sri Lanka Institute of Information Technology, 2026
-CGPA 3.74 / 4.0 · Four-time Dean's List Honoree
+**BSc (Hons) Software Engineering** - Sri Lanka Institute of Information Technology, 2026
+CGPA 3.74 / 4.0 · Five-time Dean's List Honoree
 
 ---
 
