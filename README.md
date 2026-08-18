@@ -13,32 +13,14 @@
 <a href="https://rachiththarana.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0A0F1F?style=for-the-badge&logo=netlify&logoColor=00E5FF"/></a>
 <a href="https://ieeexplore.ieee.org/document/11600063"><img src="https://img.shields.io/badge/IEEE%20Published-00629B?style=for-the-badge&logo=ieee&logoColor=white"/></a>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
 </div>
-
-```console
-╔══════════════════════════════════════════════════════════════════════════╗
-║  SYSTEM ONLINE                                          rachcha2002 @ dev ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
 
 ## `01` ▸ ABOUT ME
 
 I'm a fresh Software Engineering graduate from SLIIT with **14+ months of professional experience** building production-grade enterprise systems. I'm passionate about full-stack development, AI/ML integration, and building software that makes a real difference.
 
-```yaml
-role:      Ex Associate Software Engineer @ Panaceata (Pvt) Ltd
-built:     full-scale ERP for a manufacturing client
-stack:     Angular 18 · NestJS · PostgreSQL
-research:  IEEE published — I2CACIS 2026
-now:       AI-driven systems with LSTM-DNN, FastAPI & microservices
-also:      two independent ERP projects (MERN & Odoo-based)
-honors:    Four-time Dean's List Honoree
-```
-
 - 🏢 **Ex Associate Software Engineer** @ Panaceata (Pvt) Ltd — built a full-scale ERP for a manufacturing client using Angular 18, NestJS & PostgreSQL
-- 🔬 **IEEE Published Researcher** — co-authored *"Unified AI Framework for Predictive Pediatric Healthcare in Multilingual, Resource-Limited Settings"* presented at I2CACIS 2026
+- 🔬 **IEEE Published Researcher** - co-authored *"Unified AI Framework for Predictive Pediatric Healthcare in Multilingual, Resource-Limited Settings"* presented at I2CACIS 2026
 - 🧠 Currently building AI-driven systems with LSTM-DNN, FastAPI & microservices
 - 🚀 Actively working on two independent ERP projects (MERN & Odoo-based)
 - 🎓 CGPA 3.74/4.0 · Four-time Dean's List Honoree
@@ -106,13 +88,21 @@ honors:    Four-time Dean's List Honoree
 <img src="https://github-readme-stats.vercel.app/api?username=rachcha2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachcha2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rachcha2002&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="70%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachcha2002&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=1B3B8F&point=E6F1FF&area=true" width="97%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rachcha2002&repo=peditrack&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rachcha2002&repo=medilink&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" width="48%"/>
 
 </div>
 
-## `06` ▸ GET IN TOUCH
+## `06` ▸ MILESTONES
+
+| Year | Signal |
+|---|---|
+| **2026** | IEEE paper presented at I2CACIS 2026 · BSc (Hons) Software Engineering, SLIIT |
+| **2025** | Shipped a full-scale manufacturing ERP at Panaceata — Angular 18 · NestJS · PostgreSQL |
+| **2025** | PediTrack MVP: hybrid LSTM-DNN model behind a React Native app |
+| **2024** | Fourth Dean's List placement · CGPA held at 3.74 / 4.0 |
+
+## `07` ▸ GET IN TOUCH
 
 ```http
 GET /rachith/contact
