@@ -83,13 +83,18 @@ I'm a fresh Software Engineering graduate from SLIIT with **14+ months of profes
 
 ## `05` ▸ TELEMETRY
 
+Where the hours actually go:
+
+```text
+TypeScript / JavaScript   ████████████████████████░░░░░░░░░░   68%
+Python  (AI/ML, FastAPI)  ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░   19%
+Java                      ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    8%
+Config / Infra            ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    5%
+```
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rachcha2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachcha2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rachcha2002&repo=peditrack&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rachcha2002&repo=medilink&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" width="48%"/>
+**`FULL-STACK`** · **`AI/ML INTEGRATION`** · **`MICROSERVICES`** · **`ERP SYSTEMS`**
 
 </div>
 
