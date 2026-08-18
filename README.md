@@ -6,7 +6,7 @@
 
 <br/>
 
-`📍 Colombo, Sri Lanka`  `🎓 BSc (Hons) Software Engineering — SLIIT (2026)`  `📈 CGPA 3.74 / 4.0`
+`📍 Colombo, Sri Lanka`  `🎓 BSc (Hons) Software Engineering - SLIIT (2026)`  `📈 CGPA 3.74 / 4.0`
 
 <a href="https://linkedin.com/in/rachith-tharana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:rachiththarana@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -19,7 +19,7 @@
 
 I'm a fresh Software Engineering graduate from SLIIT with **14+ months of professional experience** building production-grade enterprise systems. I'm passionate about full-stack development, AI/ML integration, and building software that makes a real difference.
 
-- 🏢 **Ex Associate Software Engineer** @ Panaceata (Pvt) Ltd — built a full-scale ERP for a manufacturing client using Angular 18, NestJS & PostgreSQL
+- 🏢 **Ex Associate Software Engineer** @ Panaceata (Pvt) Ltd - built a full-scale ERP for a manufacturing client using Angular 18, NestJS & PostgreSQL
 - 🔬 **IEEE Published Researcher** - co-authored *"Unified AI Framework for Predictive Pediatric Healthcare in Multilingual, Resource-Limited Settings"* presented at I2CACIS 2026
 - 🧠 Currently building AI-driven systems with LSTM-DNN, FastAPI & microservices
 - 🚀 Actively working on two independent ERP projects (MERN & Odoo-based)
