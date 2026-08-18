@@ -10,7 +10,7 @@
 
 <a href="https://linkedin.com/in/rachith-tharana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:rachiththarana@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://rachiththarana.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0A0F1F?style=for-the-badge&logo=netlify&logoColor=00E5FF"/></a>
+<a href="https://rachiththarana.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0F1F?style=for-the-badge&logo=netlify&logoColor=00E5FF"/></a>
 <a href="https://ieeexplore.ieee.org/document/11600063"><img src="https://img.shields.io/badge/IEEE%20Published-00629B?style=for-the-badge&logo=ieee&logoColor=white"/></a>
 
 </div>
@@ -75,7 +75,7 @@ CGPA 3.74 / 4.0 · Five-time Dean's List Honoree
 
 ## Contact
 
-📧 [rachiththarana@gmail.com](mailto:rachiththarana@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/rachith-tharana) &nbsp;·&nbsp; 🌐 [rachiththarana.netlify.app](https://rachiththarana.netlify.app)
+📧 [rachiththarana@gmail.com](mailto:rachiththarana@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/rachith-tharana) &nbsp;·&nbsp; 🌐 [rachiththarana.netlify.app](https://rachiththarana.vercel.app/)
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:1B3B8F,100:0A0F1F&height=100&section=footer"/>
