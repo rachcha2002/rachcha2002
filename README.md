@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineer · AI/ML Researcher · Full-Stack Developer</b><br/>
-  📍 Colombo, Sri Lanka &nbsp;|&nbsp; 🎓 BSc (Hons) Software Engineering — SLIIT (2026)
+  📍 Colombo, Sri Lanka &nbsp;|&nbsp; 🎓 BSc (Hons) Software Engineering - SLIIT (2026)
 </p>
 
 <p align="center">
@@ -26,8 +26,8 @@
 
 I'm a fresh Software Engineering graduate from SLIIT with **14+ months of professional experience** building production-grade enterprise systems. I'm passionate about full-stack development, AI/ML integration, and building software that makes a real difference.
 
-- 🏢 **Ex Associate Software Engineer** @ Panaceata (Pvt) Ltd — built a full-scale ERP for a manufacturing client using Angular 18, NestJS & PostgreSQL
-- 🔬 **IEEE Published Researcher** — co-authored *"Unified AI Framework for Predictive Pediatric Healthcare in Multilingual, Resource-Limited Settings"* presented at I2CACIS 2026
+- 🏢 **Ex Associate Software Engineer** @ Panaceata (Pvt) Ltd - built a full-scale ERP for a manufacturing client using Angular 18, NestJS & PostgreSQL
+- 🔬 **IEEE Published Researcher** - co-authored *"Unified AI Framework for Predictive Pediatric Healthcare in Multilingual, Resource-Limited Settings"* presented at I2CACIS 2026
 - 🧠 Currently building AI-driven systems with LSTM-DNN, FastAPI & microservices
 - 🚀 Actively working on two independent ERP projects (MERN & Odoo-based)
 - 🎓 CGPA 3.74/4.0 · Four-time Dean's List Honoree
